@@ -39,6 +39,16 @@ AZURE_API_KEY=your_azure_api_key
 GROQ_API_KEY=your_groq_api_key
 HUGGINGFACE_API_KEY=your_huggingface_api_key
 ```
+5. **Add your virtual environment to Jupyter as a new kernel:**
+```
+python -m ipykernel install --user --name=venv
+--display-name "GenAI Hands-on"
+```
+
+6. **Launch the local Jupyter Notebook server, and make sure to open & run notebooks using `GenAI Hands-on` kernel:**
+```
+jupyter notebook
+```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
