@@ -50,5 +50,16 @@ python -m ipykernel install --user --name=venv --display-name "GenAI Hands-on"
 jupyter notebook
 ```
 
+## Available Notebooks
+- [Azure AI Foundry](./notebooks/Azure%20AI%20Foundry%20API.ipynb)
+- [Google AI Studio](./notebooks/Google%20AI%20Studio%20API.ipynb)
+- [GROQ](./notebooks/GROQ%20API.ipynb)
+- [Hugging Face](./notebooks/Hugging%20Face%20API.ipynb)
+- [Ollama](./notebooks/Ollama%20Local%20Models.ipynb)
+
+## Available Scripts
+- [LangChain Chatbot (Gemini)](./scripts/LangChain%20Chatbot%20(Gemini).py)
+- [Text to Image (Azure AI)](./scripts/Text%20to%20Image%20(Azure%20AI).py)
+
 ## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. We also plan to add more examples.

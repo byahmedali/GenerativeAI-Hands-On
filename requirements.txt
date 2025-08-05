@@ -1,6 +1,8 @@
 notebook
 langchain
 groq
+ollama
+langchain-google-genai
 langchain-groq
 google-genai
 transformers
@@ -9,3 +11,4 @@ python-dotenv
 requests
 pillow
 ipykernel
+openai
