@@ -1,0 +1,10 @@
+notebook
+langchain
+groq
+langchain-groq
+google-genai
+transformers
+huggingface_hub[hf_xet]
+python-dotenv
+requests
+pillow
