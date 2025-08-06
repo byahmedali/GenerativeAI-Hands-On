@@ -33,11 +33,12 @@ pip install -r requirements.txt
 
 4. **Create a `.env` file in the root directory and add your API keys:**
 ```
-GOOGLE_API_KEY=your_google_api_key
-AZURE_API_KEY=your_azure_api_key
 GROQ_API_KEY=your_groq_api_key
-HUGGINGFACE_API_KEY=your_huggingface_api_key
+GEMINI_API_KEY=your_gemini_api_key
+HF_TOKEN=your_huggingface_api_key
+AZURE_OPENAI_API_KEY=your_azure_api_key
 ```
+
 #### If you are going to run notebooks in Jupyter
 5. **Add your virtual environment to Jupyter as a new kernel:**
 ```
