@@ -13,3 +13,4 @@ pillow
 ipykernel
 openai
 chainlit
+streamlit
