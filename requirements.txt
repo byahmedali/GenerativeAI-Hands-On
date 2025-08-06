@@ -1,12 +1,12 @@
 notebook
 langchain
-groq
-ollama
 langchain-google-genai
 langchain-groq
+groq
+ollama
 google-genai
 transformers
-huggingface_hub[hf_xet]
+huggingface_hub
 python-dotenv
 requests
 pillow

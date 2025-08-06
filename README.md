@@ -1,14 +1,13 @@
 # Generative AI Hands-on
-A beginner-friendly repository to get started with various Generative AI models through different APIs. This repository contains interactive Jupyter notebooks & python scripts demonstrating the usage of popular Gen AI services for text and image generation.
+A beginner-friendly repository to get started with various Generative AI models through different APIs in Python. This repository contains interactive Jupyter notebooks & Python scripts demonstrating the usage of popular Gen AI services for text and image generation.
 
 ## Prerequisites
-
 - Python 3.13
 - API keys:
-  - Google AI Studio (Gemini)
-  - Azure AI Foundry
-  - GROQ
-  - Hugging Face
+  - [Google AI Studio (Gemini)](https://aistudio.google.com/)
+  - [Azure AI Foundry](https://ai.azure.com/)
+  - [GROQ](https://console.groq.com/keys)
+  - [Hugging Face](https://huggingface.co/settings/tokens)
 
 ## Setup
 1. **Clone this repository:**
@@ -60,6 +59,10 @@ jupyter notebook
 ## Available Scripts
 - [LangChain Chatbot (Gemini)](./scripts/LangChain%20Chatbot%20(Gemini).py)
 - [Text to Image (Azure AI)](./scripts/Text%20to%20Image%20(Azure%20AI).py)
+
+## Available User-Interfaces
+- [Groq Chatbot (Chainlit)](./interfaces/Groq%20Chatbot%20(Chainlit).py)
+- [Groq Chatbot (Streamlit)](./interfaces/Groq%20Chatbot%20(Streamlit).py)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request. We also plan to add more examples.

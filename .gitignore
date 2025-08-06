@@ -19,6 +19,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+/interfaces/.chainlit
 
 # Jupyter Notebook
 .ipynb_checkpoints
