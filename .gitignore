@@ -49,6 +49,7 @@ models/
 *.ckpt
 *.pth
 *.h5
+/output_examples/
 
 # Secrets and Configuration
 .env
