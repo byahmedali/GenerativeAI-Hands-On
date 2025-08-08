@@ -12,8 +12,8 @@ A beginner-friendly repository to get started with various Generative AI models 
 ## Setup
 1. **Clone this repository:**
 ```
-git clone https://github.com/yourusername/Gen-AI-Hands-on.git
-cd Gen-AI-Hands-on
+git clone https://github.com/byahmedali/GenerativeAI-Hands-On.git
+cd GenerativeAI-Hands-On
 ```
 
 2. **Create and activate a virtual environment:**
